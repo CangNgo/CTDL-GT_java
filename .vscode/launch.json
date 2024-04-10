@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "reverseLinklist",
+            "request": "launch",
+            "mainClass": "linkedList.reverseLinklist",
+            "projectName": "CTDLandGT"
+        },
+        {
+            "type": "java",
+            "name": "singleLinkList",
+            "request": "launch",
+            "mainClass": "linkedList.singleLinkList",
+            "projectName": "CTDLandGT"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "sort.bubbleSort",
+            "projectName": "CTDLandGT"
+        },
+        {
+            "type": "java",
+            "name": "insertionSort",
+            "request": "launch",
+            "mainClass": "sort.insertionSort",
+            "projectName": "CTDLandGT"
+        },
+        {
+            "type": "java",
+            "name": "seLecTionSort",
+            "request": "launch",
+            "mainClass": "sort.seLecTionSort",
+            "projectName": "CTDLandGT"
+        }
+    ]
+}
